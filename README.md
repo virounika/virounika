@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-Passionate Machine Learning stident with an interest in developing AI solutions that make a real impact. I  love exploring the intersection of data science and practical applications, from predictive analytics to computer vision.
+Passionate Machine Learning student with an interest in developing AI solutions that make a real impact. I  love exploring the intersection of data science and practical applications, from predictive analytics to computer vision.
 
 ## 🚀 Break Through Tech AI Program Project
 **PIMCO Machine Learning Challenge Project (Break Through Tech AI Program):**  
